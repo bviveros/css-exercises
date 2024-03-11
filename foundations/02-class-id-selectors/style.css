@@ -1,0 +1,18 @@
+.odd-background {
+  background-color: rgb(248, 149, 163);
+}
+
+#second-element {
+  color: rgb(4, 4, 244);
+  font-size: 36px;
+}
+
+.font-change {
+  font-size: 24px;
+}
+
+#font-change {
+  background-color: rgb(103, 246, 103);
+  font-size: 24px;
+  font-weight: bold;
+}
